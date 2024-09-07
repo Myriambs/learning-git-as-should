@@ -1,2 +1,2 @@
 # learning-git-as-should
-I will be lezrning git through yhid project
+I will be learning git through this project
